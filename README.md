@@ -45,5 +45,5 @@
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/nudge-ai-news-agent.git
-cd nudge-ai-news-agent
+git clone https://github.com/chiragferwani/nudge-ai-agent.git
+cd nudge-ai--agent
